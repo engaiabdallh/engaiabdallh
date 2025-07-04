@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Samir</h1>
 
-#### 🚀 Aspiring AI Suden | Kaggle Competitor | Freelancer
+#### 🚀 Aspiring AI Sudent | Kaggle Competitor | Freelancer
 #### I’m passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, and NLP.
 
 - 🔬 Studied **Machine Learning Specialization** and **Deep Learning Specialization** by Andrew Ng.
@@ -23,6 +23,12 @@
 </a>
 <a href="https://www.youtube.com/@YOUR-YOUTUBE-CHANNEL">
   <img align="left" alt="YouTube" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc" width="32" height="32"> 
+</a>
+<a href="https://x.com/AbdallhSam17665?t=H0-w1g6D_nhNkQJCVk5CWw&s=09">
+  <img align="left" alt="X (Twitter)" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="32" height="32">
+</a>
+<a href="https://www.facebook.com/share/15ziLrnrjj/">
+  <img align="left" alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="32" height="32">
 </a>
 
 <br><br>
@@ -52,4 +58,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahsamir&show_icons=true&locale=en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahsamir&" /></p>
+
 
