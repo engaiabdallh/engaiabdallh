@@ -1,173 +1,159 @@
-<h1 align="center">Hi 👋, I'm Abdullah Samir</h1>
+<div align="center">
 
-#### 🚀 Aspiring AI Student | Data Engineering Enthusiast | Kaggle Competitor | Freelancer
+<img width="100%" src="https://raw.githubusercontent.com/engaiabdallh/engaiabdallh/main/assets/banner.svg" alt="Abdullah Samir Zahran - AI and Data Engineer" />
 
-#### I'm passionate about building intelligent systems and scalable data pipelines that solve real-world problems using Data Engineering, Machine Learning, Deep Learning, Computer Vision, and NLP.
+<p>
+  <a href="https://linkedin.com/in/abdullah-samir1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/abdulahsamirmahmoud"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/abdullahzahran"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="mailto:abdallhsamir844@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔧 Experienced in **Data Engineering** — building ETL pipelines, working with **Spark**, **Hadoop**, **Hive**, **Kafka**, and cloud platforms like **Azure (ADF, Databricks, Synapse)**.
-- 🔬 Studied **Machine Learning Specialization** and **Deep Learning Specialization** by Andrew Ng.
-- 🤖 Completed hands-on projects in **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, and **Reinforcement Learning**.
-- 🧠 Participated in **Kaggle Competitions** and developed **end-to-end ML pipelines** with real-world datasets.
-- 🌍 Contributing to **Arabic AI education** through content creation and knowledge sharing.
-- 📊 Skilled in **data analysis**, **modeling**, **visualization**, and **Streamlit apps**.
-- 🏭 Trained at **DEBI** as a Data Engineer working on large-scale systems using **Spark**, **Hadoop**, and **Hive**.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahsamir&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahsamir" /> </p>
+</div>
 
 ---
 
-## 🛠 Languages and Tools:
+## About me
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" />
-  
-  <!-- Web Development -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  
-  <!-- Big Data & Data Engineering -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" />
-  <img src="https://img.icons8.com/color/96/000000/hadoop.png" alt="Hadoop" width="40" />
-  <img src="https://img.icons8.com/color/96/000000/apache.png" alt="Apache" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  
-  <!-- ML & DL Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" />
-  
-  <!-- Cloud & Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  
-  <!-- Data Visualization & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
-  <img src="https://matplotlib.org/_static/logo.svg" alt="Matplotlib" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-</p>
+I'm a third-year Artificial Intelligence student at Menoufia University (Machine Intelligence, graduating June 2027). I build end-to-end AI and data systems: RAG applications, multi-agent workflows, fine-tuned LLMs, and the data pipelines that feed them.
+
+- 🏗️ **Data Engineering:** Data Engineer at DEBI (Digital Egypt Builders Initiative), building ETL pipelines and optimizing schemas with PySpark and SQL.
+- 🤖 **AI & LLMs:** RAG pipelines, Hugging Face Transformers, LLM fine-tuning, and LangGraph agents with MCP.
+- ☁️ **Cloud:** Azure (Data Factory, Databricks, Synapse) and Google Cloud.
+- 🔎 **Currently looking for:** AI, machine learning, and data engineering internships. Available full-time from February 2027.
 
 ---
 
-## 🏗️ Data Engineering Skills:
+## Tech stack
 
-| Area | Tools & Technologies |
-|---|---|
-| **Pipeline & ETL** | Python, SQL, PySpark, Apache Kafka, Apache Airflow, SSIS |
-| **Big Data** | Hadoop, HDFS, Hive, Apache Spark, PySpark |
-| **Cloud (Azure)** | Azure Data Factory, Databricks, Synapse Analytics, Azure Storage |
-| **Data Modeling** | Lakehouse, Data Warehouse, Star Schema, MongoDB |
-| **Streaming** | Kafka, Spark Streaming, Real-time Processing |
-| **Tools & Visualization** | Power BI, Pandas, SQL, Docker |
+**Languages**
 
----
-
-## 🤖 AI & ML Skills:
-
-| Area | Tools & Technologies |
-|---|---|
-| **LLMs & NLP** | HuggingFace, T5, Gemma, LoRA, PEFT, RAG, NLTK, SpaCy |
-| **ML / DL** | TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy |
-| **Computer Vision** | CNNs, YOLO, OpenCV |
-| **Deployment** | FastAPI, Streamlit, Docker, Azure |
-| **Data Visualization** | Matplotlib, Power BI, Pandas |
-
----
-
-## 💻 All Technologies at a Glance:
-
-<p align="center">
-  <!-- Core Programming -->
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<p align="center">
-  <!-- Data Engineering & Big Data -->
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" alt="Hadoop" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache&logoColor=black" alt="Hive" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /></a>
+**AI, Machine Learning & Generative AI**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
 </p>
 
-<p align="center">
-  <!-- Machine Learning & AI -->
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NLTK-10A121?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" /></a>
+**Data Engineering & Big Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Hive" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-<p align="center">
-  <!-- Data Tools & Visualization -->
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2CC0C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+**Backend, Databases & Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
 </p>
 
-<p align="center">
-  <!-- Cloud & Databases -->
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+**Cloud, DevOps & Tools**
 
-<p align="center">
-  <!-- Additional Tools -->
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 🚀 Selected Projects:
+## Featured projects
 
-- 🔁 **Full RAG System** — vector databases + LLM integration
-- 📡 **Real-time IoT Pipeline** — streaming & batch processing with Kafka + Spark
-- ☁️ **Azure Data Pipelines** — Lakehouse and Data Warehouse architectures
-- 🤖 **LLM-based Churn Prediction** — fine-tuned model with FastAPI deployment
-- 💬 **AI Applications** — summarization, chat with data, semantic search
+### 🧭 [Multi-Agent Travel Planning System](https://github.com/engaiabdallh/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL)
+**LangGraph · MCP · FastAPI · Docker**
+A multi-agent travel planner with a supervisor agent, input guardrails, and human-in-the-loop plan approval. Includes a FastAPI backend, a web UI, and a custom weather MCP server, containerized with Docker.
 
-👉 Explore all projects: [github.com/engaiabdallh](https://github.com/engaiabdallh?tab=repositories)
+### 📄 [AI-Powered PDF Q&A System (RAG)](https://github.com/engaiabdallh/RAG-APP)
+**Mistral Nemo · Sentence Transformers · FAISS · Streamlit**
+An end-to-end RAG pipeline for semantic search and answers over uploaded PDFs, with a Streamlit app for upload and LLM-based responses.
+
+### 🔮 [Churn Prediction Deployment with LLMs](https://github.com/engaiabdallh/-Churn-LLM-Full-Project)
+**Gemma · Hugging Face · FastAPI · Docker · SQL**
+A fine-tuned Gemma model that reaches 87% accuracy (an 18% improvement over the baseline), served through a Dockerized FastAPI service with real-time predictions in under 500 ms.
+
+### 🛡️ [Fraud Detection System](https://github.com/engaiabdallh/BigData_Proj_Fraud_detection)
+**PySpark ML**
+A PySpark ML pipeline on 1M+ transactions with feature engineering and class imbalance handling. Trained models reach up to 0.95 F1 and 0.96 AUC.
+
+### 📡 [Real-time IoT Data Pipeline](https://github.com/engaiabdallh/Real_time_IOT_Data_Pipeline-)
+**Kafka · Spark · SQLite · Streamlit**
+A pipeline that supports both real-time streaming and batch ETL, with analytics, alerts, and interactive dashboards.
+
+### ☁️ [Adventure Works Azure Data Engineering](https://github.com/engaiabdallh/Adventure-Works-Azure-Data-Engineering-Project)
+**Azure Data Factory · Databricks · Synapse · Power BI**
+An Azure Lakehouse ETL pipeline that delivers analytics-ready data and Power BI dashboards.
+
+**More:** [Plant Disease Analyzer](https://github.com/engaiabdallh/CNN-Plants-Diseases) (EfficientNet-B4, 95% accuracy on 33 classes) · [Customer Recommendation System](https://github.com/engaiabdallh/Customer-Segmentation-and-Recommendation-System) (segmentation + AutoEncoder) · [Bike Share Azure Data Warehouse](https://github.com/engaiabdallh/Azure-Data-Warehouse-for-Bike-Data-Analytics-Public)
+
+👉 [Browse all repositories](https://github.com/engaiabdallh?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats:
+## Experience & credentials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engaiabdallh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engaiabdallh&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- **Data Engineer**, DEBI (Digital Egypt Builders Initiative): ETL pipelines, schema optimization, Spark, Databricks, Hadoop, Hive.
+- **AI Model Evaluator**, Alignerr (freelance): evaluated AI-generated code fixes for real GitHub issues in open-source Python libraries.
+- **AI & LLMs Intern**, Tips Handawi: RAG pipelines and AI apps with Hugging Face, Streamlit, and ngrok.
+- **Participant**, Google for Developers, Build with AI: MASR Edition (with ITI).
+- **Certifications:** Microsoft Data Engineering (DEBI, 170 h) · AI Agent Fundamentals (Databricks) · HCIA-AI (Huawei) · AI Engineering Bootcamp (124.5 h)
 
 ---
 
-*Let's collaborate! Feel free to reach out on [LinkedIn](#) or [Twitter](#)*
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/engaiabdallh?tab=followers"><img src="https://img.shields.io/github/followers/engaiabdallh?style=flat-square&logo=github&label=Followers&color=1f6feb" alt="GitHub followers" /></a>
+<a href="https://github.com/engaiabdallh?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-48-1f6feb?style=flat-square&logo=github" alt="Public repositories" /></a>
+<a href="https://github.com/engaiabdallh?tab=stars"><img src="https://img.shields.io/badge/Starred-43-1f6feb?style=flat-square&logo=github" alt="Starred repositories" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+I'm open to internships and collaborations in AI, machine learning, and data engineering.
+
+<a href="https://linkedin.com/in/abdullah-samir1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abdallhsamir844@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
